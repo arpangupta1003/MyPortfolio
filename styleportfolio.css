@@ -78,8 +78,9 @@ border-radius: 80%;
  
 }
 #footer ul li {
-	display: inline-flex;
+	display: flex;
 	padding-left: 80px;
 	align-content: space-between;
+	justify-content: center;
 
 }
